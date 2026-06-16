@@ -1,16 +1,55 @@
-## Hi there 👋
+# LaVodges Greer
 
-<!--
-**LaVodges/LaVodges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building AI-Powered Revenue Systems
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Founder of LeakScan.ai
+
+Developing systems that help businesses identify, measure, and reduce revenue leakage through automation, diagnostics, and AI.
+
+## Projects
+
+- LeakScan.ai
+- Revenue Hospital
+- Guidi
+- Revenue Stability Score (RSS™)
+
+## Tech Stack
+
+- OpenAI
+- Cursor
+- Next.js
+- Supabase
+- n8n
+- Vercel
+- GitHub
+
+## Mission
+
+Help businesses stop revenue leaks and install scalable revenue systems.
+
+## Currently Building
+
+- RSS™ Revenue Stability Score
+- RRE™ Revenue Risk Estimate
+- ROE™ Revenue Opportunity Estimate
+- Industry Benchmark Engine
+- Guidi Intelligence Layer
+
+## Currently Learning
+
+- Advanced Git & GitHub
+- Next.js
+- AI Agent Development
+- Revenue Intelligence Systems
+- Supabase Architecture
+
+## Current Objective
+
+Launch LeakScan.ai and establish the Revenue Hospital ecosystem for diagnosing, measuring, and reducing revenue leakage in businesses.
+
+## Connect
+
+Website: https://lavodges.com
+
